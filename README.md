@@ -63,3 +63,13 @@ und die Setup-Datei auf einem Windows-PC mit wenigen Klicks erzeugt werden könn
 Startbild / Splash-Screen
 --------------------------
 Beim Start des Programms wird das von dir gewünschte Bild automatisch fuer 5 Sekunden angezeigt. Danach oeffnet sich die Hauptoberflaeche. Das gleiche Bild wird auch als Programmsymbol (Icon) verwendet.
+
+## Download
+
+Die aktuelle Windows-Version von **Zählerstand aktuell** kannst du hier herunterladen:
+
+⬇️ [Zählerstand aktuell herunterladen](https://github.com/tj199/Zaehlerstand-aktuell/releases/tag/v1.0.0)
+
+---
+
+Entwickelt von **TJ** ⚡
